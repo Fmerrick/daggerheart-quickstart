@@ -1,0 +1,53 @@
+{
+  "id": "daggerheart-quickstart",
+  "title": "Daggerheart Quickstart",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "flags": {
+    "canUpload": true
+  },
+  "description": "A implementation of the Daggerheart Quickstart adventures containing scenes, actors, journals, and items.",
+  "authors": [
+    {
+      "name": "Frank M"
+    }
+  ],
+  "packs": [
+    {
+      "name": "scenes",
+      "label": "Scenes",
+      "path": "packs/scenes.db",
+      "type": "Scene",
+      "system": "daggerheart",
+      "private": false
+    },
+    {
+      "name": "actors",
+      "label": "Actors",
+      "path": "packs/actors.db",
+      "type": "Actor",
+      "system": "daggerheart",
+      "private": false
+    },
+    {
+      "name": "journals",
+      "label": "Journals",
+      "path": "packs/journals.db",
+      "type": "JournalEntry",
+      "system": "daggerheart",
+      "private": false
+    },
+    {
+      "name": "items",
+      "label": "Items",
+      "path": "packs/items.db",
+      "type": "Item",
+      "system": "daggerheart",
+      "private": false
+    }
+  ]
+}
+
