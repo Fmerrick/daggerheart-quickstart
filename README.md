@@ -72,7 +72,6 @@ Daggerheart™ and related trademarks are property of their respective owners.
 
 Battlemaps and the image of Hush from Nika_ITA on [Reddit](https://www.reddit.com/r/daggerheart/comments/1bl19pk/maps_for_the_open_beta_quick_start_adventure/)
 
-If you intend to redistribute or modify this content, please check the Daggerheart Community License and FoundryVTT EULA.
 
 ---
 
