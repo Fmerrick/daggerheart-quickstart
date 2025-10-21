@@ -47,7 +47,9 @@ This module does not include any journal entries on the adventure itself. It's a
 1. Create or open a world using the **Daggerheart** system.  
 2. Enable the module.  
 3. Open the **Compendium Packs** tab (📚 icon).  
-4. Import the content you need — right-click → *Import All Content* or drag individual entries.  
+4. Import Actors first, then Scenes, then Journals. (There are currently no Items to import, so that can be skipped): 
+      - Right-click → *Import All Content*. It's important to import everything at once so the file structure is maintained
+      - 
 5. You’re ready to play!
 
 ---
