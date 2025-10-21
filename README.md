@@ -77,7 +77,6 @@ Battlemaps and the image of Hush from Nika_ITA on [Reddit](https://www.reddit.co
 
 ---
 
-## 🗒️ Changelog
 
 ### v1.0.0
 - Initial public release  
