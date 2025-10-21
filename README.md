@@ -77,8 +77,21 @@ Battlemaps and the image of Hush from Nika_ITA on [Reddit](https://www.reddit.co
 
 ---
 
+# Changelog
 
-### v1.0.0
-- Initial public release  
-- Includes scenes, actors, journals, and items  
-- Verified for Foundry VTT v13 and the Daggerheart system
+## [1.0.2] – 2025-10-21
+### Added
+- Updated Actors compendium with corrected links.
+- Updated Scenes to fix broken token references.
+
+### Changed
+- Folder-based compendium structure for Foundry v13+.
+
+### Fixed
+- Tokens referencing missing Actors.
+
+---
+
+## [1.0.1] – 2025-10-20
+- Initial release of folder-based compendiums.
+- Added Actors, Items, Journals, and Scenes packs.
