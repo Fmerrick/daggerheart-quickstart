@@ -39,7 +39,6 @@ This module includes:
 
 This module does not include any journal entries on the adventure itself. It's assumed you will be using the adventure PDF linked above.
 
-All compendiums are unlocked for easy import into your world.
 
 ---
 
