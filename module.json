@@ -2,7 +2,7 @@
   "id": "daggerheart-quickstart",
   "title": "Daggerheart Quickstart",
   "description": "A Daggerheart Quickstart module containing scenes, actors, journals, and items for Foundry VTT.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -17,41 +17,41 @@
   },
   "packs": [
     {
-      "name": "scenes",
-      "label": "Scenes",
-      "path": "packs/scenes.db",
-      "type": "Scene",
-      "system": "daggerheart",
-      "private": false
-    },
-    {
       "name": "actors",
       "label": "Actors",
-      "path": "packs/actors.db",
+      "path": "packs/actors",
       "type": "Actor",
-      "system": "daggerheart",
-      "private": false
-    },
-    {
-      "name": "journals",
-      "label": "Journals",
-      "path": "packs/journals.db",
-      "type": "JournalEntry",
       "system": "daggerheart",
       "private": false
     },
     {
       "name": "items",
       "label": "Items",
-      "path": "packs/items.db",
+      "path": "packs/items",
       "type": "Item",
+      "system": "daggerheart",
+      "private": false
+    },
+    {
+      "name": "journals",
+      "label": "Journals",
+      "path": "packs/journals",
+      "type": "JournalEntry",
+      "system": "daggerheart",
+      "private": false
+    },
+    {
+      "name": "scenes",
+      "label": "Scenes",
+      "path": "packs/scenes",
+      "type": "Scene",
       "system": "daggerheart",
       "private": false
     }
   ],
   "url": "https://github.com/Fmerrick/daggerheart-quickstart",
   "manifest": "https://raw.githubusercontent.com/Fmerrick/daggerheart-quickstart/main/module.json",
-  "download": "https://github.com/Fmerrick/daggerheart-quickstart/releases/download/v1.0.0/daggerheart-quickstart-1.0.0.zip",
+  "download": "https://github.com/Fmerrick/daggerheart-quickstart/releases/download/v1.0.1/daggerheart-quickstart-1.0.1.zip",
   "readme": "https://github.com/Fmerrick/daggerheart-quickstart/blob/main/README.md",
   "license": "LICENSE"
 }
