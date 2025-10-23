@@ -1,1 +1,58 @@
-"{\r\n    \"id\":  \"daggerheart-quickstart\",\r\n    \"title\":  \"Daggerheart Quickstart\",\r\n    \"description\":  \"A Daggerheart Quickstart module containing scenes, actors, journals, and items for Foundry VTT.\",\r\n    \"version\":  \"1.0.4\",\r\n    \"compatibility\":  {\r\n                          \"minimum\":  \"13\",\r\n                          \"verified\":  \"13\"\r\n                      },\r\n    \"authors\":  [\r\n                    {\r\n                        \"name\":  \"Frank Merrick\"\r\n                    }\r\n                ],\r\n    \"flags\":  {\r\n                  \"canUpload\":  true\r\n              },\r\n    \"packs\":  [\r\n                  {\r\n                      \"name\":  \"actors\",\r\n                      \"label\":  \"Actors\",\r\n                      \"path\":  \"packs/actors\",\r\n                      \"type\":  \"Actor\",\r\n                      \"system\":  \"daggerheart\",\r\n                      \"private\":  false\r\n                  },\r\n                  {\r\n                      \"name\":  \"items\",\r\n                      \"label\":  \"Items\",\r\n                      \"path\":  \"packs/items\",\r\n                      \"type\":  \"Item\",\r\n                      \"system\":  \"daggerheart\",\r\n                      \"private\":  false\r\n                  },\r\n                  {\r\n                      \"name\":  \"journals\",\r\n                      \"label\":  \"Journals\",\r\n                      \"path\":  \"packs/journals\",\r\n                      \"type\":  \"JournalEntry\",\r\n                      \"system\":  \"daggerheart\",\r\n                      \"private\":  false\r\n                  },\r\n                  {\r\n                      \"name\":  \"scenes\",\r\n                      \"label\":  \"Scenes\",\r\n                      \"path\":  \"packs/scenes\",\r\n                      \"type\":  \"Scene\",\r\n                      \"system\":  \"daggerheart\",\r\n                      \"private\":  false\r\n                  }\r\n              ],\r\n    \"url\":  \"https://github.com/Fmerrick/daggerheart-quickstart\",\r\n    \"manifest\":  \"https://raw.githubusercontent.com/Fmerrick/daggerheart-quickstart/main/module.json\",\r\n    \"download\":  \"https://github.com/Fmerrick/daggerheart-quickstart/releases/download/v1.0.4/daggerheart-quickstart-1.0.4.zip\",\r\n    \"readme\":  \"https://github.com/Fmerrick/daggerheart-quickstart/blob/main/README.md\",\r\n    \"license\":  \"LICENSE\"\r\n}"
+{
+  "id": "daggerheart-quickstart",
+  "type": "module",
+  "title": "Daggerheart Quickstart",
+  "description": "A Daggerheart Quickstart module containing scenes, actors, journals, and items for Foundry VTT.",
+  "version": "1.0.4",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Frank Merrick"
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "actors",
+      "label": "Actors",
+      "path": "packs/actors",
+      "type": "Actor",
+      "system": "daggerheart",
+      "private": false
+    },
+    {
+      "name": "items",
+      "label": "Items",
+      "path": "packs/items",
+      "type": "Item",
+      "system": "daggerheart",
+      "private": false
+    },
+    {
+      "name": "journals",
+      "label": "Journals",
+      "path": "packs/journals",
+      "type": "JournalEntry",
+      "system": "daggerheart",
+      "private": false
+    },
+    {
+      "name": "scenes",
+      "label": "Scenes",
+      "path": "packs/scenes",
+      "type": "Scene",
+      "system": "daggerheart",
+      "private": false
+    }
+  ],
+  "url": "https://github.com/Fmerrick/daggerheart-quickstart",
+  "manifest": "https://raw.githubusercontent.com/Fmerrick/daggerheart-quickstart/main/module.json",
+  "download": "https://github.com/Fmerrick/daggerheart-quickstart/releases/download/v1.0.4/daggerheart-quickstart-1.0.4.zip",
+  "readme": "https://github.com/Fmerrick/daggerheart-quickstart/blob/main/README.md",
+  "license": "LICENSE"
+}
