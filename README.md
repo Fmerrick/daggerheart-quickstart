@@ -11,7 +11,7 @@ This package contains prebuilt **scenes, actors, journals, and items** for the [
 1. In Foundry VTT’s **Setup** screen, click **Add-on Modules → Install Module**.  
 2. Paste the following Manifest URL:
    ```
-   https://raw.githubusercontent.com/Fmerrick/daggerheart-quickstart/main/module.json
+   https://github.com/Fmerrick/daggerheart-quickstart/releases/download/v1.0.4/module.json
    ```
 3. Click **Install**.
 4. Once installed, open or create a world using the **Daggerheart** system.  
