@@ -37,7 +37,7 @@ This module includes:
 - **Items:** *Currently Empty*
 - **Journals:** Player handouts and useful documents
 
-This module does not include any journal entries on the adventure itself. It's assumed you will be using the adventure PDF linked above.
+*This module does not include any journal entries for the adventure itself. It's assumed you will be using the adventure PDF [available here](https://www.daggerheart.com/wp-content/uploads/2025/05/Quickstart-Adventure-5-20-2025.pdf)*
 
 
 ---
