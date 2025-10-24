@@ -1,7 +1,7 @@
 # 🗡️ Daggerheart Quickstart
 
 Welcome to the **Daggerheart Quickstart Module** for [Foundry Virtual Tabletop](https://foundryvtt.com/)!  
-This package contains prebuilt **scenes, actors, journals, and items** for the [Daggerheart Quickstart](https://www.daggerheart.com/wp-content/uploads/2025/05/Quickstart-Adventure-5-20-2025.pdf) adventure published by Darrington Press and for use with the Daggerheart system created for Foundry VTT by [Foundryborne](https://foundryborne.online/).
+This package contains prebuilt **scenes, actors, and journals** for the [Daggerheart Quickstart](https://www.daggerheart.com/wp-content/uploads/2025/05/Quickstart-Adventure-5-20-2025.pdf) adventure published by Darrington Press and for use with the Daggerheart system created for Foundry VTT by [Foundryborne](https://foundryborne.online/).
 
 ---
 
@@ -34,7 +34,7 @@ This package contains prebuilt **scenes, actors, journals, and items** for the [
 This module includes:
 - **Scenes:** Includes a landing page, an image of the town of Hush, and combat maps with adversaries and walls/lighting,   
 - **Actors:** Adversaries, NPCs, and Pre-Generated player characters
-- **Items:** *Empty*
+- **Items:** *Currently Empty*
 - **Journals:** Player handouts and useful documents
 
 This module does not include any journal entries on the adventure itself. It's assumed you will be using the adventure PDF linked above.
@@ -73,26 +73,7 @@ This module is distributed for personal and demo use only.
 
 Daggerheart™ and related trademarks are property of their respective owners.
 
-Battlemaps and the image of Hush from Nika_ITA on [Reddit](https://www.reddit.com/r/daggerheart/comments/1bl19pk/maps_for_the_open_beta_quick_start_adventure/)
+Battlemaps and the image of Hush from Nikapun on [Inkarnate](https://inkarnate.com/profile/k8mLnA-nikapun)
 
 
 ---
-
-# Changelog
-
-## [1.0.2] – 2025-10-21
-### Added
-- Updated Actors compendium with corrected links.
-- Updated Scenes to fix broken token references.
-
-### Changed
-- Folder-based compendium structure for Foundry v13+.
-
-### Fixed
-- Tokens referencing missing Actors.
-
----
-
-## [1.0.1] – 2025-10-20
-- Initial release of folder-based compendiums.
-- Added Actors, Items, Journals, and Scenes packs.
