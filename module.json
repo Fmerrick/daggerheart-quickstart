@@ -53,6 +53,6 @@
                       "private":  false
                   }
               ],
-    "manifest":  "https://Fmerrick.github.io/daggerheart-quickstart/module.json",
+    "manifest":  "https://github.com/Fmerrick/daggerheart-quickstart/releases/latest/download/module.json",
     "download":  "https://github.com/Fmerrick/daggerheart-quickstart/releases/download/v1.0.12/daggerheart-quickstart-1.0.12.zip"
 }
