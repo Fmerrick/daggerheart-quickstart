@@ -56,6 +56,15 @@ This module includes:
 
 ---
 
+### Known Issue (v1.0.8)
+Scene thumbnails may not appear on first install. This does **not** affect play.
+
+**Quick fix for GMs:**  
+Open the Scenes sidebar, right-click each scene, choose **Regenerate Thumbnail**.  
+This thumbnail will persist in your world.
+
+---
+
 ## 🧑‍💻 Development & Source
 
 - **Author:** Frank Merrick  
