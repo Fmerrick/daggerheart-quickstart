@@ -1,3 +1,6 @@
+# DO NOT USE
+This has several issues I'm working through. It won't cause any issues if you use it, it just won't be complete.
+
 # 🗡️ Daggerheart Quickstart
 
 Welcome to the **Daggerheart Quickstart Module** for [Foundry Virtual Tabletop](https://foundryvtt.com/)!  
