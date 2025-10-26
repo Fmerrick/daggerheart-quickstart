@@ -1,58 +1,27 @@
 {
-    "id":  "daggerheart-quickstart",
-    "type":  "module",
-    "title":  "Daggerheart Quickstart",
-    "description":  "A Daggerheart Quickstart module containing scenes, actors, journals, and items for Foundry VTT.",
-    "version":  "1.0.12",
-    "compatibility":  {
-                          "minimum":  "13.0.0",
-                          "verified":  "13.0.0"
-                      },
-    "authors":  [
-                    {
-                        "name":  "Frank Merrick"
-                    }
-                ],
-    "url":  "https://github.com/Fmerrick/daggerheart-quickstart",
-    "readme":  "https://github.com/Fmerrick/daggerheart-quickstart/blob/main/README.md",
-    "license":  "LICENSE",
-    "flags":  {
-                  "canUpload":  true
-              },
-    "packs":  [
-                  {
-                      "name":  "actors",
-                      "label":  "Actors",
-                      "path":  "packs/actors",
-                      "type":  "Actor",
-                      "system":  "daggerheart",
-                      "private":  false
-                  },
-                  {
-                      "name":  "items",
-                      "label":  "Items",
-                      "path":  "packs/items",
-                      "type":  "Item",
-                      "system":  "daggerheart",
-                      "private":  false
-                  },
-                  {
-                      "name":  "journals",
-                      "label":  "Journals",
-                      "path":  "packs/journals",
-                      "type":  "JournalEntry",
-                      "system":  "daggerheart",
-                      "private":  false
-                  },
-                  {
-                      "name":  "scenes",
-                      "label":  "Scenes",
-                      "path":  "packs/scenes",
-                      "type":  "Scene",
-                      "system":  "daggerheart",
-                      "private":  false
-                  }
-              ],
-    "manifest":  "https://Fmerrick.github.io/daggerheart-quickstart/module.json",
-    "download":  "https://github.com/Fmerrick/daggerheart-quickstart/releases/download/v1.0.12/daggerheart-quickstart-1.0.12.zip"
+  "id": "daggerheart-quickstart",
+  "title": "Daggerheart Quickstart Adventure",
+  "description": "A module containing the Daggerheart Quickstart adventure for the Foundry VTT Daggerheart game system from Foundryborne.",
+  "version": "1.1.0",
+  "author": "Frank Merrick",
+  "url": "https://github.com/Fmerrick/daggerheart-quickstart",
+  "manifest": "https://github.com/Fmerrick/daggerheart-quickstart/releases/latest/download/module.json",
+  "download": "https://github.com/Fmerrick/daggerheart-quickstart/releases/latest/download/daggerheart-quickstart.zip",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "esmodules": [],
+  "styles": [],
+  "packs": [],
+  "languages": [],
+  "relationships": {
+    "requires": [
+      {
+        "id": "foundryvtt-daggerheart",
+        "type": "system",
+        "manifest": "https://github.com/Foundry-VTT-Daggerheart/foundryvtt-daggerheart/releases/latest/download/system.json"
+      }
+    ]
+  }
 }
