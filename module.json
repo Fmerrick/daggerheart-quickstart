@@ -2,7 +2,7 @@
   "id": "daggerheart-quickstart",
   "title": "Daggerheart Quickstart",
   "description": "This package contains prebuilt scenes, actors, and journals for the Daggerheart Quickstart adventure published by Darrington Press and for use with the Daggerheart system created for Foundry VTT by Foundryborne.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "compatibility": {
     "minimum": "12",
     "verified": "13"
