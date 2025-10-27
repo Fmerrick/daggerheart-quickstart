@@ -1,0 +1,108 @@
+{
+  "id": "daggerheart-quickstart",
+  "title": "Daggerheart Quickstart",
+  "description": "This package contains prebuilt scenes, actors, and journals for the Daggerheart Quickstart adventure published by Darrington Press and for use with the Daggerheart system created for Foundry VTT by Foundryborne.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Frank Merrick",
+      "url": "https://github.com/Fmerrick/daggerheart-quickstart"
+    }
+  ],
+  "media": [
+    {
+      "type": "setup",
+      "url": "modules/daggerheart-quickstart/assets/cover.png",
+      "thumbnail": "modules/daggerheart-quickstart/assets/cover-thumbnail.png"
+    }
+  ],
+  "packs": [
+    {
+      "name": "actors",
+      "label": "Daggerheart Quickstart",
+      "path": "./packs/actors",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "daggerheart"
+    },
+    {
+      "name": "adventure",
+      "label": "Daggerheart Quickstart",
+      "path": "./packs/adventure",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "daggerheart"
+    },
+    {
+      "name": "journals",
+      "label": "Daggerheart Quickstart",
+      "path": "./packs/journals",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "maps",
+      "label": "Daggerheart Quickstart",
+      "path": "./packs/maps",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Starter Scene Packer",
+      "sorting": "m",
+      "color": "#0000ff",
+      "packs": [
+        "actors",
+        "journals",
+        "maps"
+      ],
+      "folders": [
+        {
+          "name": "Adventure",
+          "sorting": "a",
+          "color": "#ff0000",
+          "packs": [
+            "adventure"
+          ]
+        }
+      ]
+    }
+  ],
+  "esmodules": [
+    "./scripts/init.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "scene-packer",
+        "type": "module",
+        "manifest": "https://github.com/League-of-Foundry-Developers/scene-packer/releases/latest/download/module.json"
+      }
+    ]
+  },
+  "url": "https://github.com/Fmerrick/daggerheart-quickstart",
+  "manifest": "",
+  "download": ""
+}
