@@ -1,5 +1,5 @@
 # DO NOT USE
-This has several issues I'm working through. It won't cause any issues if you use it, it just won't be complete.
+This module is broken. I'm working to fix it.
 
 # 🗡️ Daggerheart Quickstart
 
