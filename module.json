@@ -15,12 +15,6 @@
   "styles": [],
   "packs": [],
   "languages": [],
-    "dependencies": [
-      {
-        "id": "scene-packer",
-        "type": "module"
-      }
-    ],
   "relationships": {
     "requires": [
       {
