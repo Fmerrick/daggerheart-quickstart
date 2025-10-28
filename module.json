@@ -5,7 +5,7 @@
   "version": "1.1.0",
   "author": "Frank Merrick",
   "url": "https://github.com/Fmerrick/daggerheart-quickstart",
-  "manifest": "",
+  "manifest": "https://raw.githubusercontent.com/Fmerrick/daggerheart-quickstart/refs/heads/main/module.json",
   "download": "https://github.com/Fmerrick/daggerheart-quickstart/releases/latest/download/daggerheart-quickstartv1.1.0.zip",
   "compatibility": {
     "minimum": "13",
