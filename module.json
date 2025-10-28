@@ -3,6 +3,9 @@
   "title": "Daggerheart Quickstart",
   "description": "This package contains prebuilt scenes, actors, and journals for the Daggerheart Quickstart adventure published by Darrington Press and for use with the Daggerheart system created for Foundry VTT by Foundryborne.",
   "version": "1.1.0",
+  "url": "https://github.com/Fmerrick/daggerheart-quickstart",
+  "manifest": "https://github.com/Fmerrick/daggerheart-quickstart/releases/latest/download/module.json",
+  "download": "https://github.com/Fmerrick/daggerheart-quickstart/releases/latest/download/daggerheart-quickstart.zip",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -100,9 +103,13 @@
         "type": "module",
         "manifest": "https://github.com/League-of-Foundry-Developers/scene-packer/releases/latest/download/module.json"
       }
+      {
+        "id": "foundryvtt-daggerheart",
+        "type": "system",
+        "manifest": "https://github.com/Foundry-VTT-Daggerheart/foundryvtt-daggerheart/releases/latest/download/system.json"
+      }
     ]
   },
-  "url": "https://github.com/Fmerrick/daggerheart-quickstart",
   "manifest": "",
   "download": ""
 }
