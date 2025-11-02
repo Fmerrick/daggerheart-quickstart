@@ -3,8 +3,8 @@ This module is broken. I'm working to fix it.
 
 # 🗡️ Daggerheart Quickstart
 
-Welcome to the **Daggerheart Quickstart Module** for [Foundry Virtual Tabletop](https://foundryvtt.com/)!  
-This package contains prebuilt **scenes, actors, and journals** for the [Daggerheart Quickstart](https://www.daggerheart.com/wp-content/uploads/2025/05/Quickstart-Adventure-5-20-2025.pdf) adventure published by Darrington Press and for use with the Daggerheart system created for Foundry VTT by [Foundryborne](https://foundryborne.online/).
+Welcome to an unofficial **Daggerheart Quickstart Module** for [Foundry Virtual Tabletop](https://foundryvtt.com/)!  
+This module contains a prebuilt adventure with **scenes, actors, and journals** for the [Daggerheart Quickstart](https://www.daggerheart.com/wp-content/uploads/2025/05/Quickstart-Adventure-5-20-2025.pdf) adventure published by Darrington Press and for use with the Daggerheart system created for Foundry VTT by [Foundryborne](https://foundryborne.online/).
 
 ---
 
