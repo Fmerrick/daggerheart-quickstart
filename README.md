@@ -7,6 +7,8 @@ This module contains a prebuilt adventure with **scenes, actors, and journals** 
 
 ## 📦 Installation
 
+*Note: If you are trying to update from a version of this module prior to v1.2.0, it's best to delete the old version and install fresh. I'm new to GitHub and creating modules for Foundry VTT, and it shows*🙂
+
 ### 🧭 Option 1 – Install via Manifest (recommended)
 
 **In Foundry VTT:**
@@ -59,7 +61,7 @@ This module includes:
 5. Click the 'Import Adventure' button on the screen the pops up.
 6. You’re ready to play!
 
-*Note: Scene thumbnails may not display properly. Right click on each scene and click 'Generate Thumbnail Image' to display them.*
+*Note: Scene thumbnails will not display properly when the adventure is first loaded. To fix this, right click on each scene and click 'Generate Thumbnail Image' to display them.*
 
 ---
 
