@@ -24,7 +24,8 @@
       "name": "pack-1",
       "label": "Daggerheart Quickstart",
       "path": "packs/pack-1",
-      "type": "Adventure"
+      "type": "Adventure",
+      "system": "daggerheart"
         }
               ],
     "manifest":  "https://raw.githubusercontent.com/Fmerrick/daggerheart-quickstart/refs/heads/main/module.json",
