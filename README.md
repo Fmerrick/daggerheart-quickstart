@@ -57,12 +57,9 @@ This module includes:
 1. Create or open a world using the **Daggerheart** system.  
 2. Enable the module.  
 3. Open the **Compendium Packs** tab (📔 icon).  
-4. Import Actors first, then Scenes, then Journals. (There are currently no Items to import, so that can be skipped): 
-      - Right-click → *Import All Content*. It's important to import everything at once so the file structure is maintained
-      - Leave the 'Existing Folder' and 'New Folder' options as they are. **But you must click on the 'Keep Document IDs' option as shown**
-      - ![Import Options](https://github.com/Fmerrick/daggerheart-quickstart/blob/main/Import.JPG?raw=true)
-      - Click 'Import'
-5. You’re ready to play!
+4. You will see the Daggerheart Quickstart adventure compendium. Click it, then click on the Daggerheart Quickstart adventure within.
+5. Click the 'Import Adventure' button on the screen the pops up.
+6. You’re ready to play!
 
 ---
 
