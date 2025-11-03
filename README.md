@@ -59,7 +59,7 @@ This module includes:
 5. Click the 'Import Adventure' button on the screen the pops up.
 6. You’re ready to play!
 
-Note: Scene thumbnails may not display properly. Right click on each scene and click 'Generate Thumbnail Image' to display them.
+*Note: Scene thumbnails may not display properly. Right click on each scene and click 'Generate Thumbnail Image' to display them.*
 
 ---
 
