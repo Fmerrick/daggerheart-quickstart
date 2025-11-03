@@ -1,3 +1,5 @@
+**DO NOT USE. Module is broken, I'm working to fix.**
+
 # 🗡️ Daggerheart Quickstart
 
 Welcome to an unofficial **Daggerheart Quickstart Module** for [Foundry Virtual Tabletop](https://foundryvtt.com/)!  
