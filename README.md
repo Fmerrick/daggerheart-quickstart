@@ -54,12 +54,12 @@ This module includes:
 
 ## 🧩 How to Use
 
-1. Create or open a world using the **Daggerheart** system.  
-2. Enable the module.  
-3. Open the **Compendium Packs** tab (📔 icon).  
+1. Once the module has been installed and enabled, open the **Compendium Packs** tab (📔 icon).  
 4. You will see the Daggerheart Quickstart adventure compendium. Click it, then click on the Daggerheart Quickstart adventure within.
 5. Click the 'Import Adventure' button on the screen the pops up.
 6. You’re ready to play!
+
+Note: Scene thumbnails may not display properly. Right click on each scene and click 'Generate Thumbnail Image' to display them.
 
 ---
 
