@@ -23,4 +23,6 @@
       }
     }
   ]
+  "manifest":  "https://raw.githubusercontent.com/Fmerrick/daggerheart-quickstart/refs/heads/main/module.json",
+  "download":  "https://github.com/Fmerrick/daggerheart-quickstart/releases/download/v1.2.0/daggerheart-quickstart.zip"
 }
