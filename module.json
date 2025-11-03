@@ -1,32 +1,32 @@
 {
-  "id": "daggerheart-quickstart",
-  "name": "Daggerheart Quickstart",
-  "version": "1.2.0",
-  "type": "module",
-  "system": "daggerheart",
-  "compatibility": {
-    "minimum": "13",
-    "verified": "13"
-  },
-  "description": "<p>Welcome to an unofficial <strong>Daggerheart Quickstart Module</strong> for <a href=\"https://foundryvtt.com/\">Foundry Virtual Tabletop</a>.</p><p>This module contains a prebuilt adventure with scenes, actors, and journals for the Daggerheart quickstart published by Darrington Press, tailored for Foundry VTT.</p>",
-  "authors": [
-    {
-      "name": "Fmerrick"
-    }
-  ],
-  "url": "https://github.com/Fmerrick/daggerheart-quickstart",
-  "packs": [
-    {
+    "id":  "daggerheart-quickstart",
+    "type":  "module",
+    "title":  "Daggerheart Quickstart",
+    "description":  "A Daggerheart Quickstart module containing scenes, actors, journals, and items for Foundry VTT.",
+    "version":  "1.2.0",
+    "compatibility":  {
+                          "minimum":  "13.0.0",
+                          "verified":  "13.0.0"
+                      },
+    "authors":  [
+                    {
+                        "name":  "FMerrick"
+                    }
+                ],
+    "url":  "https://github.com/Fmerrick/daggerheart-quickstart",
+    "readme":  "https://github.com/Fmerrick/daggerheart-quickstart/blob/main/README.md",
+    "license":  "LICENSE",
+    "flags":  {
+                  "canUpload":  true
+              },
+    "packs":  [
+        {
       "name": "pack-1",
       "label": "Daggerheart Quickstart",
       "path": "packs/pack-1",
-      "type": "Adventure",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    }
-  ],
-  "manifest": "https://raw.githubusercontent.com/Fmerrick/daggerheart-quickstart/refs/heads/main/module.json",
-  "download": "https://github.com/Fmerrick/daggerheart-quickstart/releases/download/v1.2.0/daggerheart-quickstart.zip"
+      "type": "Adventure"
+        }
+              ],
+    "manifest":  "https://raw.githubusercontent.com/Fmerrick/daggerheart-quickstart/refs/heads/main/module.json",
+    "download":  "https://github.com/Fmerrick/daggerheart-quickstart/releases/download/v1.2.0/daggerheart-quickstart.zip"
 }
