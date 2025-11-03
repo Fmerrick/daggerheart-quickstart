@@ -1,18 +1,15 @@
 {
   "id": "daggerheart-quickstart",
-  "title": "Daggerheart Quickstart",
+  "name": "Daggerheart Quickstart",
   "version": "1.2.0",
   "type": "module",
+  "system": "daggerheart",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
   },
-  "description": "<p>Welcome to an unofficial <strong>Daggerheart Quickstart Module</strong> for <a href=\"https://foundryvtt.com/\">Foundry Virtual Tabletop</a></p><p><br />This module contains a prebuilt adventure with <strong>scenes, actors, and journals</strong> for the <a href=\"https://www.daggerheart.com/wp-content/uploads/2025/05/Quickstart-Adventure-5-20-2025.pdf\">Daggerheart Quickstart</a> adventure published by Darrington Press and for use with the Daggerheart system created for Foundry VTT by <a href=\"https://foundryborne.online/\">Foundryborne</a>.</p>",
-  "authors": [
-    {
-      "name": "Fmerrick"
-    }
-  ],
+  "description": "<p>Welcome to an unofficial <strong>Daggerheart Quickstart Module</strong> for <a href=\"https://foundryvtt.com/\">Foundry Virtual Tabletop</a></p>..."
+  "authors": [{"name": "Fmerrick"}],
   "url": "https://github.com/Fmerrick/daggerheart-quickstart",
   "packs": [
     {
@@ -23,9 +20,7 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "daggerheart"
+      }
     }
-  ],
-  "system": "daggerheart"
+  ]
 }
