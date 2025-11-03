@@ -1,26 +1,42 @@
 {
   "id": "daggerheart-quickstart",
-  "title": "Daggerheart Quickstart Adventure",
-  "description": "A module containing the Daggerheart Quickstart adventure for Foundry VTT.",
-  "version": "1.1.0",
-  "author": "Frank Merrick",
-  "url": "https://github.com/Fmerrick/daggerheart-quickstart",
-  "manifest": "https://raw.githubusercontent.com/Fmerrick/daggerheart-quickstart/refs/heads/main/module.json",
-  "download": "https://github.com/Fmerrick/daggerheart-quickstart/releases/latest/download/daggerheart-quickstartv1.1.0.zip",
+  "title": "Daggerheart Quickstart",
+  "version": "1.2.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
   },
-  "esmodules": [],
-  "styles": [],
-  "packs": [],
-  "languages": [],
+  "description": "<p>Welcome to an unofficial <strong>Daggerheart Quickstart Module</strong> for <a href=\"https://foundryvtt.com/\">Foundry Virtual Tabletop</a></p><p><br />This module contains a prebuilt adventure with <strong>scenes, actors, and journals</strong> for the <a href=\"https://www.daggerheart.com/wp-content/uploads/2025/05/Quickstart-Adventure-5-20-2025.pdf\">Daggerheart Quickstart</a> adventure published by Darrington Press and for use with the Daggerheart system created for Foundry VTT by <a href=\"https://foundryborne.online/\">Foundryborne</a>.</p>",
+  "authors": [
+    {
+      "name": "Fmerrick",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/Fmerrick/daggerheart-quickstart",
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "pack-1",
+      "label": "Daggerheart Quickstart",
+      "path": "packs/pack-1",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "daggerheart",
+      "flags": {}
+    }
+  ],
   "relationships": {
-    "requires": [
+    "systems": [
       {
-        "id": "foundryvtt-daggerheart",
+        "id": "daggerheart",
         "type": "system",
-        "manifest": "https://github.com/Foundry-VTT-Daggerheart/foundryvtt-daggerheart/releases/latest/download/system.json"
+        "compatibility": {}
       }
     ]
   }
