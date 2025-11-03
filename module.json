@@ -8,8 +8,12 @@
     "minimum": "13",
     "verified": "13"
   },
-  "description": "<p>Welcome to an unofficial <strong>Daggerheart Quickstart Module</strong> for <a href=\"https://foundryvtt.com/\">Foundry Virtual Tabletop</a></p>..."
-  "authors": [{"name": "Fmerrick"}],
+  "description": "<p>Welcome to an unofficial <strong>Daggerheart Quickstart Module</strong> for <a href=\"https://foundryvtt.com/\">Foundry Virtual Tabletop</a>.</p><p>This module contains a prebuilt adventure with scenes, actors, and journals for the Daggerheart quickstart published by Darrington Press, tailored for Foundry VTT.</p>",
+  "authors": [
+    {
+      "name": "Fmerrick"
+    }
+  ],
   "url": "https://github.com/Fmerrick/daggerheart-quickstart",
   "packs": [
     {
@@ -22,7 +26,7 @@
         "ASSISTANT": "OWNER"
       }
     }
-  ]
-  "manifest":  "https://raw.githubusercontent.com/Fmerrick/daggerheart-quickstart/refs/heads/main/module.json",
-  "download":  "https://github.com/Fmerrick/daggerheart-quickstart/releases/download/v1.2.0/daggerheart-quickstart.zip"
+  ],
+  "manifest": "https://raw.githubusercontent.com/Fmerrick/daggerheart-quickstart/refs/heads/main/module.json",
+  "download": "https://github.com/Fmerrick/daggerheart-quickstart/releases/download/v1.2.0/daggerheart-quickstart.zip"
 }
