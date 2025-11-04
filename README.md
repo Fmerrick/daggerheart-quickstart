@@ -76,7 +76,7 @@ This module includes:
 
 This unofficial module is distributed for personal and demo use only.  
 
-Daggerheart™ and related trademarks and images are property of their respective owners.
+Daggerheart™ and related trademarks and images are the property of their respective owners.
 
 Battlemaps and the image of Hush from Nikapun on [Inkarnate](https://inkarnate.com/profile/k8mLnA-nikapun)
 
