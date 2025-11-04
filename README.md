@@ -1,5 +1,3 @@
-**DO NOT USE. Module is broken, I'm working to fix.**
-
 # 🗡️ Daggerheart Quickstart
 
 Welcome to an unofficial **Daggerheart Quickstart Module** for [Foundry Virtual Tabletop](https://foundryvtt.com/)!  
@@ -49,7 +47,7 @@ This module contains a prebuilt adventure with **scenes, actors, and journals** 
 This module includes:
 - **Scenes:** Includes a landing page, an image of the town of Hush, and combat maps with adversaries and walls/lighting,   
 - **Actors:** Adversaries, NPCs, and Pre-Generated player characters
-- **Journals:** Player handouts and useful documents
+- **Journals:** Player handouts and useful documents for new players and GMs
 
 *This module does not include any journal entries for the adventure itself. It's assumed you will be using the adventure PDF [available here](https://www.daggerheart.com/wp-content/uploads/2025/05/Quickstart-Adventure-5-20-2025.pdf)*
 
@@ -78,7 +76,7 @@ This module includes:
 
 This unofficial module is distributed for personal and demo use only.  
 
-Daggerheart™ and related trademarks are property of their respective owners.
+Daggerheart™ and related trademarks and images are property of their respective owners.
 
 Battlemaps and the image of Hush from Nikapun on [Inkarnate](https://inkarnate.com/profile/k8mLnA-nikapun)
 
