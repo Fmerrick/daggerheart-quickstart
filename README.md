@@ -7,8 +7,6 @@ This module contains a prebuilt adventure with **scenes, actors, and journals** 
 
 ## 📦 Installation
 
-*Note: If you are trying to update from a version of this module prior to v1.2.0, it's best to delete the old version and install fresh. I'm new to GitHub and creating modules for Foundry VTT, and it shows*🙂
-
 ### 🧭 Option 1 – Install via Manifest (recommended)
 
 **In Foundry VTT:**
